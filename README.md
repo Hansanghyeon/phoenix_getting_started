@@ -1,6 +1,7 @@
 ## TL;DR
 
 ```shell
+apt install software-properties-common
 apt update && apt upgrade
 apt install erlang
 apt install elixir
