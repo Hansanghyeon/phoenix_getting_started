@@ -1,3 +1,14 @@
+## TL;DR
+
+```shell
+apt update && apt upgrade
+apt install erlang
+apt install elixir
+apt install inotify-tools
+mix local.hex
+mix archive.install hex phx_new
+```
+
 ## phoenix getting started
 
 공식문서
