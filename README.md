@@ -2,6 +2,7 @@
 
 ```shell
 apt install software-properties-common
+add-apt-repository ppa:rabbitmq/rabbitmq-erlang
 apt update && apt upgrade
 apt install erlang
 apt install elixir
